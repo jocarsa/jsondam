@@ -1,0 +1,1 @@
+1.-Arrays - var clientes = ['cliente1','cliente2','cliente3']

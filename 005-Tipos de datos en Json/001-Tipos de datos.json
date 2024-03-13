@@ -1,0 +1,8 @@
+{
+    "cadena":"Esto es una cadena",
+    "numero":53543253,
+    "objeto":{"propiedad":"valor"},
+    "coleccion":[1,2,3,4,5],
+    "booleano":true,
+    "nulo":null
+}

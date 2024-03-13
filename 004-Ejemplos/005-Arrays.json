@@ -1,0 +1,10 @@
+{
+    "nombre":"Jose Vicente",
+    "apellidos":"Carratalá Sanchis",
+    "edad":45,
+    "emails":[
+        "info@josevicentecarratala.com",
+        "info@jocarsa.com",
+        "jocarsa2@gmail.com"
+    ]
+}

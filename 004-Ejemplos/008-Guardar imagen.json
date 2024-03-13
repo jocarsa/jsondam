@@ -1,0 +1,26 @@
+{
+    "nombre":"Jose Vicente",
+    "apellidos":"Carratalá Sanchis",
+    "edad":45,
+    "emails":[
+        "info@josevicentecarratala.com",
+        "info@jocarsa.com",
+        "jocarsa2@gmail.com"
+    ],
+    "telefonos":[
+        {
+            "tipo":"movil",
+            "numero":620891718
+        },
+        {
+            "tipo":"fijo",
+            "numero":[
+                963778757,
+                963778320
+            ]
+        }
+        
+    ],
+    "logo":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAIAAABv85FHAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpSIVQTtIcchQnSyIijhKKxbBQmkrtOpgcukXNGlIUlwcBdeCgx+LVQcXZ10dXAVB8APE2cFJ0UVK/F9SaBHjwXE/3t173L0DhGaVqWbPJKBqlpFOxMRcflUMvMKPIIYQhiAxU09mFrPwHF/38PH1LsqzvM/9OQaUgskAn0g8z3TDIt4gnt20dM77xCFWlhTic+IJgy5I/Mh12eU3ziWHBZ4ZMrLpOHGIWCx1sdzFrGyoxDPEEUXVKF/Iuaxw3uKsVuusfU/+wmBBW8lwneYoElhCEimIkFFHBVVYiNKqkWIiTfsxD3/Y8afIJZOrAkaOBdSgQnL84H/wu1uzOD3lJgVjQO+LbX+MAYFdoNWw7e9j226dAP5n4Err+GtNYO6T9EZHixwBg9vAxXVHk/eAyx1g5EmXDMmR/DSFYhF4P6NvygPDt0D/mttbex+nD0CWulq+AQ4OgfESZa97vLuvu7d/z7T7+wEs8XKLns/4XwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+gDDBIbNKyVvhYAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAOklEQVQI12P8//8/Aw7AwsDAkGxkjykx99xBFjgLWQKimgmNj2wGEwNuQJwcxEpki1mQLUMDjHj8BwAoyhLl1VlT/wAAAABJRU5ErkJggg=="
+    
+}
